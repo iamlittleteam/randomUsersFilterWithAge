@@ -67,6 +67,7 @@ function ProfileBox({ users }) {
       <Stack
         style={{
           marginTop: 40,
+          marginBottom: 40,
           alignItems: "center",
         }}
         spacing={2}
